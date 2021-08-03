@@ -1,2 +1,2 @@
-# reverse-proxy-statistics
-Reverse proxy statistics frontend
+npm install
+npm start
